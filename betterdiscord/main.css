@@ -726,19 +726,19 @@
   top: 0;
   background: #7289da;
 }
-/*:root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .activity-2INFPu::after {
+:root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .activity-2INFPu::after {
   content: "";
   position: absolute;
   height: 20px;
   width: 268px;
   top: -20px;
   left: 0;
-  background: url("https://nyri4.github.io/Comfy/assets/wave_playing.png");
+  background: url("");
   background-size: 268px 20px;
   animation: animate 6s linear infinite;
   animation-delay: 0s;
   opacity: 1;
-}*/
+}
 :root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .activity-2INFPu .timeBarUserPopout-AWPFf2::before {
   content: "";
   position: absolute;
@@ -757,7 +757,7 @@
   top: -20px;
   left: 0;
   z-index: 1;
-  background: url("https://nyri4.github.io/Comfy/assets/wave_spotify.png");
+  background: url("");
   background-size: 268px 20px;
   animation: animate 6s linear infinite;
   animation-delay: 0s;
