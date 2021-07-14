@@ -724,7 +724,6 @@
   z-index: -2;
   left: 0;
   top: 0;
-  background: #7289da;
 }
 :root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .activity-2INFPu::after {
   content: "";
@@ -747,7 +746,6 @@
   z-index: -1;
   left: 0;
   top: 0;
-  background: #1db954;
 }
 :root .userPopout-xaxa6l .body-3HBlXn .bodyInnerWrapper-26fQXj .activity-2INFPu .timeBarUserPopout-AWPFf2::after {
   content: "";
@@ -1082,7 +1080,6 @@
   z-index: -2;
   left: 0;
   top: 0;
-  background: #7289da;
 }
 :root .root-3QyAh1 .activityProfile-2bJRaP .timeBarProfile-10b-fm::after {
   content: "";
@@ -1092,7 +1089,6 @@
   z-index: -1;
   left: 0;
   top: 0;
-  background: #1db954;
 }
 :root .root-3QyAh1 .activityProfile-2bJRaP .spotifyIcon-2J9kSv {
   display: none !important;
@@ -1253,7 +1249,6 @@
 :root .userProfileCustomizationSection-8Vpo48 .baseLayout-2GkbfB .popoutInfo-pKbpvG > div[aria-hidden=true]:last-child {
   margin: 0 16px;
   padding: 16px;
-  background-color: #7289da;
   border-radius: 5px;
 }
 :root .userProfileCustomizationSection-8Vpo48 .baseLayout-2GkbfB .popoutInfo-pKbpvG > div[aria-hidden=true]:last-child .colorStandard-2KCXvj, :root .userProfileCustomizationSection-8Vpo48 .baseLayout-2GkbfB .popoutInfo-pKbpvG > div[aria-hidden=true]:last-child h3 {
